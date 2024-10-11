@@ -1,4 +1,4 @@
-pip install yt-dlp openai-whisper torch
+pip install ffmpeg yt-dlp openai-whisper torch
 
 ## Installing Torch as per https://pytorch.org/get-started/locally/
 ## The script will download Whisper Large by default for the first time you use the script, if you wish to use different Whisper Model, replace "large" with any of the available models [https://github.com/openai/whisper]
